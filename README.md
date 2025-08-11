@@ -26,8 +26,8 @@ Una aplicación de chat de soporte construida con React, TypeScript y Vite.
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/tu-usuario/support-chat.git
-   cd support-chat
+   git clone https://github.com/RacsoJosu/chat.git
+   cd chat
    ```
 
 2. **Instala las dependencias**
@@ -83,6 +83,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-Tu Nombre - [@tu-twitter](https://twitter.com/tu-usuario) - email@ejemplo.com
+Oscar Vallecillo - [@oscarjva](https://www.instagram.com/oscarjva/) - oscarvallecillo95@gmail.com
 
-Link del proyecto: [https://github.com/tu-usuario/support-chat](https://github.com/tu-usuario/support-chat)
+Link del proyecto: [https://github.com/RacsoJosu/chat](https://github.com/RacsoJosu/chat)
